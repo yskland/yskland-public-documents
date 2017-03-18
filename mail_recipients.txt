@@ -16,6 +16,9 @@ d@ysk.land
 doctors@ysk.land
 dctrs@ysk.land
 
+donators@ysk.land
+dntrs@ysk.land
+
 e@ysk.land
 engineers@ysk.land
 engnrs@ysk.land
